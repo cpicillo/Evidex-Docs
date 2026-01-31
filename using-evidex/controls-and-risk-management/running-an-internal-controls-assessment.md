@@ -13,7 +13,7 @@ Internal controls assessments provide structured inputs that can be used to:
 * Support mitigation planning
 * Demonstrate control design and implementation during audits
 
-Controls assessments do not create decisions on their own, but they form a critical input to risk identification and governance workflows.
+Control assessments do not create decisions on their own, but they form a critical input to risk identification and governance workflows.
 
 ### When to Run an Internal Controls Assessment
 
