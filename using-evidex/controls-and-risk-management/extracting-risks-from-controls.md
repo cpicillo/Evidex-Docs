@@ -18,7 +18,7 @@ This ensures risks are **explicitly identified**, not inferred.
 
 Organizations typically extract risks from controls when:
 
-* An internal controls assessment has been completed
+* An internal control assessment has been completed
 * Control gaps or limitations have been identified
 * Controls rely on assumptions or external dependencies
 * Controls mitigate risk partially rather than fully

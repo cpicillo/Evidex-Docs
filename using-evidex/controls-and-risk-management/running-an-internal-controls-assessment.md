@@ -6,7 +6,7 @@ description: What This Accomplishes
 
 Running an internal controls assessment in Evidex allows organizations to **document, evaluate, and review the effectiveness of internal controls** related to privacy, security, and governance obligations.
 
-Internal controls assessments provide structured inputs that can be used to:
+Internal control assessments provide structured inputs that can be used to:
 
 * Identify control gaps or weaknesses
 * Extract and document risks
@@ -25,7 +25,7 @@ Organizations typically run internal control assessments when:
 * Assessing controls related to a new system or vendor
 * Reviewing controls after a material change
 
-Controls assessments may be repeated over time as controls evolve.
+Control assessments may be repeated over time as controls evolve.
 
 <figure><img src="../../.gitbook/assets/Controls homepage.png" alt=""><figcaption></figcaption></figure>
 
