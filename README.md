@@ -1,8 +1,7 @@
 ---
 description: >-
-  Welcome to your team’s develHow Evidex turns assessments into traceable,
-  audit-ready decisions with full human accountability and transparent AI
-  use.oper platform
+  Evidex turns assessments into traceable, audit-ready decisions with full human
+  accountability and transparent AI use.
 layout:
   width: wide
   title:
