@@ -17,7 +17,7 @@ Control assessments do not create decisions on their own, but they form a critic
 
 ### When to Run an Internal Controls Assessment
 
-Organizations typically run internal controls assessments when:
+Organizations typically run internal control assessments when:
 
 * Evaluating the design or effectiveness of existing controls
 * Preparing for audits or certifications
