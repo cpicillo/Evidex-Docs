@@ -6,8 +6,8 @@ description: What This Accomplishes
 
 Approving or rejecting risks formally determines **how identified risks are treated by the organization**.
 
-In Evidex, risk approval is not implicit.\
-Each risk must be explicitly reviewed and either approved, rejected, or returned for further analysis.
+In TRACE, risk approval is not implicit.\
+TRACE risk must be explicitly reviewed and either approved, rejected, or returned for further analysis.
 
 This ensures that risk handling decisions are **intentional, documented, and defensible**.
 
@@ -21,9 +21,9 @@ Risks are reviewed after:
 
 Only validated, documented risks can move forward to approval.
 
-### How Risk Approval Works in Evidex
+### How Risk Approval Works in TRACE
 
-Risk approval workflows in Evidex are:
+Risk approval workflows in TRACE are:
 
 * Human-initiated
 * Role-based
@@ -82,9 +82,9 @@ When a risk is rejected:
 
 Rejected risks are not erased — they remain part of the record.
 
-### What Evidex Records
+### What TRACE Records
 
-For each risk approval or rejection, Evidex records:
+For each risk approval or rejection, TRACE records:
 
 * The approver’s identity
 * The approval or rejection outcome

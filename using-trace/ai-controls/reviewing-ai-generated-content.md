@@ -6,7 +6,7 @@ description: What This Accomplishes
 
 Reviewing AI-generated content ensures that **all information used in governance workflows is accurate, appropriate, and intentionally approved by humans**.
 
-In Evidex, AI can assist with drafting or analysis, but **AI outputs are never authoritative on their own**.\
+In TRACE, AI can assist with drafting or analysis, but **AI outputs are never authoritative on their own**.\
 This review step confirms that AI-assisted content is suitable for use before it becomes part of an approved assessment, risk decision, or evidence record.
 
 ### When AI-Generated Content Should Be Reviewed

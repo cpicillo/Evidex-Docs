@@ -4,7 +4,7 @@ description: What This Accomplishes
 
 # Running an Internal Controls Assessment
 
-Running an internal controls assessment in Evidex allows organizations to **document, evaluate, and review the effectiveness of internal controls** related to privacy, security, and governance obligations.
+Running an internal controls assessment in TRACE allows organizations to **document, evaluate, and review the effectiveness of internal controls** related to privacy, security, and governance obligations.
 
 Internal control assessments provide structured inputs that can be used to:
 
@@ -27,11 +27,11 @@ Organizations typically run internal control assessments when:
 
 Control assessments may be repeated over time as controls evolve.
 
-<figure><img src="../../.gitbook/assets/Controls homepage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Controls.png" alt=""><figcaption></figcaption></figure>
 
-### How Internal Controls Assessments Work in Evidex
+### How Internal Controls Assessments Work in TRACE
 
-Internal controls assessments in Evidex are:
+Internal controls assessments in  are:
 
 * Structured and template-driven
 * Completed in draft before approval
@@ -91,9 +91,9 @@ Controls should be described factually and consistently.
 
 <figure><img src="../../.gitbook/assets/create risk control.png" alt=""><figcaption></figcaption></figure>
 
-### What Evidex Records
+### What TRACE Records
 
-During a controls assessment, Evidex records:
+During a controls assessment, TRACE records:
 
 * Control descriptions and evaluations
 * The user(s) who documented controls
@@ -102,9 +102,9 @@ During a controls assessment, Evidex records:
 
 If AI assistance is used during drafting, corresponding AI audit log entries are created.
 
-### What Evidex Records
+### What TRACE Records
 
-During a controls assessment, Evidex records:
+During a controls assessment, TRACE records:
 
 * Control descriptions and evaluations
 * The user(s) who documented controls

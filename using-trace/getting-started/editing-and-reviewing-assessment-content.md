@@ -4,7 +4,7 @@ description: What This Accomplishes
 
 # Editing and Reviewing Assessment Content
 
-Editing and reviewing assessment content ensures that all information documented in Evidex is **accurate, complete, and ready for approval**.
+Editing and reviewing assessment content ensures that all information documented in TRACE is **accurate, complete, and ready for approval**.
 
 This step is where users validate:
 
@@ -26,9 +26,9 @@ Assessment content should be reviewed:
 
 Reviewing content before approval helps prevent delays, rework, and incomplete decision records.
 
-### How Editing Works in Evidex
+### How Editing Works in TRACE
 
-Assessment content in Evidex remains editable while the assessment is in **draft** status.
+Assessment content in TRACE remains editable while the assessment is in **draft** status.
 
 During this stage:
 
@@ -84,9 +84,9 @@ This allows:
 
 All edits are captured through version history.
 
-### What Evidex Records
+### What TRACE Records
 
-During editing and review, Evidex records:
+During editing and review, TRACE records:
 
 * Who made changes
 * When changes were made

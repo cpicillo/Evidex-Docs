@@ -4,7 +4,7 @@ description: What This Accomplishes
 
 # Using the Risk Register
 
-The Risk Register in Evidex provides a **central, authoritative view of all approved risks** and how they are being managed over time.
+The Risk Register in TRACE provides a **central, authoritative view of all approved risks** and how they are being managed over time.
 
 It serves as the system of record for:
 
@@ -76,9 +76,9 @@ The Risk Register supports longitudinal oversight by allowing users to:
 
 Historical records remain available even as risk status evolves.
 
-### What Evidex Records
+### What TRACE Records
 
-For each risk in the register, Evidex preserves:
+For each risk in the register, TRACE preserves:
 
 * Risk description and source
 * Decision outcome and rationale

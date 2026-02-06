@@ -1,8 +1,8 @@
 # Generating Assessment Content with AI
 
-### What This Accomplishes
+What This Accomplishes
 
-Evidex allows users to **optionally use AI to assist with drafting assessment content**.
+TRACE allows users to **optionally use AI to assist with drafting assessment content**.
 
 AI assistance is designed to:
 
@@ -24,9 +24,9 @@ Users commonly use AI assistance when:
 
 AI assistance is optional and can be used selectively on a per-section basis.
 
-### How AI Assistance Works in Evidex
+### How AI Assistance Works in TRACE
 
-AI assistance in Evidex is **explicit, controlled, and traceable**.
+AI assistance in TRACE is **explicit, controlled, and traceable**.
 
 Key characteristics:
 
@@ -75,9 +75,9 @@ Once reviewed and edited, users may save the content as part of the assessment d
 
 Saving AI-assisted content does not approve the assessment or create a decision record.
 
-### What Evidex Records
+### What TRACE Records
 
-For every AI-assisted action, Evidex creates a corresponding **AI audit log entry**, including:
+For every AI-assisted action, TRACE creates a corresponding **AI audit log entry**, including:
 
 * The purpose of the AI action
 * The section where AI was used
@@ -91,7 +91,7 @@ These records support traceability and auditability without relying on inference
 
 ### Human Review and Approval
 
-AI-generated content does not bypass Evidex’s approval workflow.
+AI-generated content does not bypass TRACE’s approval workflow.
 
 Before any assessment content:
 
@@ -105,7 +105,7 @@ Human accountability remains explicit at all times.
 
 ### Limits and Responsibilities
 
-AI assistance in Evidex:
+AI assistance in TRACE:
 
 * Does not provide legal advice
 * Does not determine compliance

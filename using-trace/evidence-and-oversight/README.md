@@ -4,9 +4,9 @@ description: Purpose
 
 # Evidence and Oversight
 
-This section explains how Evidex supports **ongoing oversight, audit readiness, and evidence production**.
+This section explains how TRACE supports **ongoing oversight, audit readiness, and evidence production**.
 
-Evidex is designed so governance evidence is created **as a byproduct of normal workflows**, rather than assembled retroactively in response to audits or reviews.
+TRACE is designed so governance evidence is created **as a byproduct of normal workflows**, rather than assembled retroactively in response to audits or reviews.
 
 The guides in this section show how to:
 
@@ -17,7 +17,7 @@ The guides in this section show how to:
 
 ### Evidence as a System Output
 
-In Evidex, evidence is not manually curated.
+In TRACE, evidence is not manually curated.
 
 As users:
 
@@ -44,7 +44,7 @@ Traditional governance processes often rely on:
 * Meeting notes
 * After-the-fact explanations
 
-Evidex is designed to reduce reliance on reconstruction.
+TRACE is designed to reduce reliance on reconstruction.
 
 Instead of answering:
 
@@ -62,7 +62,7 @@ All linked and time-stamped.
 
 ### Ongoing Risk Visibility
 
-Evidence and oversight in Evidex are not limited to point-in-time reviews.
+Evidence and oversight in TRACE are not limited to point-in-time reviews.
 
 The platform supports:
 
@@ -75,7 +75,7 @@ This enables proactive governance rather than reactive reporting.
 
 ### Ongoing Risk Visibility
 
-Evidence and oversight in Evidex are not limited to point-in-time reviews.
+Evidence and oversight in TRACE are not limited to point-in-time reviews.
 
 The platform supports:
 

@@ -1,7 +1,7 @@
 ---
 description: >-
-  Why AI Audit Logs Exist  AI audit logs in Evidex exist to ensure that every
-  use of artificial intelligence is visible, explainable, and defensible.
+  AI audit logs in TRACE exist to ensure that every use of artificial
+  intelligence is visible, explainable, and defensible.
 ---
 
 # AI Audit Logs
@@ -11,13 +11,13 @@ Most tools either:
 * Use AI without meaningful traceability, or
 * Log technical events that are difficult for non-technical reviewers to understand
 
-Evidex is designed differently.
+TRACE is designed differently.
 
 AI audit logs are created so organizations can **explain how AI was used in governance decisions** to auditors, regulators, executives, and internal stakeholders without relying on assumptions or reconstruction after the fact.
 
 #### What Is Logged
 
-For every AI-assisted action in Evidex, the system records a structured audit entry that includes:
+For every AI-assisted action in TRACE, the system records a structured audit entry that includes:
 
 * **Purpose of the AI action:** Why AI was used (e.g., drafting assessment content, summarizing information, identifying potential risks)
 * **Summary of input data:** A description of the information provided to the AI (not raw datasets)
@@ -31,9 +31,9 @@ This ensures AI use can be reviewed **factually**, not inferred.
 
 #### Human Control and Accountability
 
-AI audit logs reinforce Evidex’s human-in-the-loop design.
+AI audit logs reinforce TRACE’s human-in-the-loop design.
 
-In Evidex:
+In TRACE:
 
 * AI actions are **always initiated by a human**
 * AI outputs are **clearly labeled**
@@ -44,7 +44,7 @@ The audit log makes human accountability explicit — not implied.
 
 #### Prompt Traceability and Data Protection
 
-Evidex maintains prompt traceability while minimizing risk:
+TRACE maintains prompt traceability while minimizing risk:
 
 * Full prompts are retained temporarily for audit and investigation purposes
 * Sensitive information is masked where appropriate
@@ -84,7 +84,7 @@ Instead of answering:
 
 > “We believe AI was used responsibly”
 
-Organizations using Evidex can show:
+Organizations using TRACE can show:
 
 **Exactly how AI was used, by whom, for what purpose, and under what controls**
 

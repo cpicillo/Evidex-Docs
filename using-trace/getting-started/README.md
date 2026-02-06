@@ -1,19 +1,19 @@
 ---
 description: >-
-  This section helps new users understand how to begin using Evidex and how core
-  workflows fit together.  Evidex is designed to support structured, defensible
+  This section helps new users understand how to begin using TRACE and how core
+  workflows fit together.  TRACE is designed to support structured, defensible
   governance decisions.
 ---
 
 # Getting Started
 
-Rather than acting as a simple documentation tool, Evidex connects assessments, approvals, risk identification, decision-making, and evidence into a single, traceable workflow.
+Rather than acting as a simple documentation tool, TRACE connects assessments, approvals, risk identification, decision-making, and evidence into a single, traceable workflow.
 
 The guides in this section focus on the **first actions users typically take** and establish the foundation for all downstream governance activities.
 
-### How Workflows in Evidex Are Structured
+### How Workflows in TRACE Are Structured
 
-Evidex workflows are intentionally sequential and controlled.
+TRACE workflows are intentionally sequential and controlled.
 
 Most users begin by:
 
@@ -27,7 +27,7 @@ Each step builds on the previous one and is designed to ensure that decisions ar
 
 ### Human Review and Accountability
 
-Evidex is built around human-in-the-loop governance.
+TRACE is built around human-in-the-loop governance.
 
 While AI may assist with drafting or analysis:
 
@@ -39,7 +39,7 @@ This ensures that governance outcomes remain explainable and defensible.
 
 ### Records and Auditability
 
-As users complete workflows in Evidex, the platform automatically creates records that support traceability and audit readiness.
+As users complete workflows in TRACE, the platform automatically creates records that support traceability and audit readiness.
 
 This includes:
 
@@ -52,7 +52,7 @@ These records are maintained to support internal reviews, audits, and regulatory
 
 ### What to Do First
 
-If you are new to Evidex, start with the following guides in order:
+If you are new to TRACE, start with the following guides in order:
 
 1. **Creating an Assessment**
 2. **Generating Assessment Content with AI** (optional)

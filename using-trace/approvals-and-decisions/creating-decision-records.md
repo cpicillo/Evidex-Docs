@@ -6,7 +6,7 @@ description: What This Accomplishes
 
 Creating a decision record documents **how an organization chose to act** based on approved assessments and identified risks.
 
-Decision records in Evidex capture:
+Decision records in TRACE capture:
 
 * The decision made
 * The rationale behind the decision
@@ -32,7 +32,7 @@ Common examples include decisions to:
 
 Decision records prevent ambiguity by making outcomes explicit.
 
-### How Decision Records Work in Evidex
+### How Decision Records Work in TRACE
 
 Decision records are created **after approval**, not during drafting.
 
@@ -91,9 +91,9 @@ Once confirmed:
 
 Decision records cannot be silently altered after creation.
 
-### What Evidex Records
+### What TRACE Records
 
-For each decision record, Evidex captures:
+For each decision record, TRACE captures:
 
 * The decision outcome
 * The rationale provided

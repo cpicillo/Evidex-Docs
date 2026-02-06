@@ -4,7 +4,7 @@ description: What This Accomplishes
 
 # Generating Technical and Organizational Measures (TOMs)
 
-Generating Technical and Organizational Measures (TOMs) in Evidex allows organizations to **document safeguards designed to address identified risks**.
+Generating Technical and Organizational Measures (TOMs) in TRACE allows organizations to **document safeguards designed to address identified risks**.
 
 TOMs describe the technical and organizational actions an organization takes to:
 
@@ -14,15 +14,15 @@ TOMs describe the technical and organizational actions an organization takes to:
 
 TOMs are derived from approved assessments, controls, and risks, and must be **reviewed and approved by humans** before being relied upon.
 
-### How TOM Generation Works in Evidex
+### How TOM Generation Works in TRACE
 
-TOM generation in Evidex is:
+TOM generation in TRACE is:
 
 * **Context-driven** (based on approved inputs)
 * **Optional AI-assisted**
 * **Human-reviewed and approved**
 
-Evidex does not automatically declare risks mitigated based on TOMs alone.\
+TRACE does not automatically declare risks mitigated based on TOMs alone.\
 Mitigation effectiveness must still be reviewed and approved.
 
 ### How to Generate Technical and Organizational Measures
@@ -56,8 +56,6 @@ Users may optionally use AI assistance to:
 
 AI-generated TOMs are clearly labeled and treated as **drafts only**.
 
-<figure><img src="../../.gitbook/assets/Generate TOMS.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../.gitbook/assets/Generate TOMS Screen.png" alt=""><figcaption></figcaption></figure>
 
 #### Step 4: Review and Edit TOMs
@@ -73,9 +71,9 @@ TOMs should reflect **actual safeguards**, not aspirational ones.
 
 <figure><img src="../../.gitbook/assets/Tom Generation.png" alt=""><figcaption></figcaption></figure>
 
-### What Evidex Records
+### What TRACE Records
 
-When TOMs are generated and reviewed, Evidex records:
+When TOMs are generated and reviewed, TRACE records:
 
 * The risks and assessments used as inputs
 * Whether AI assistance was used
@@ -91,4 +89,4 @@ These records support traceability and audit readiness.
 * TOMs must reflect implemented or planned safeguards
 * Organizations remain responsible for contractual commitments
 
-Evidex provides tooling, not certification.
+TRACE provides tooling, not certification.

@@ -4,7 +4,7 @@ description: What This Accomplishes
 
 # Viewing AI Audit Logs
 
-Viewing AI audit logs allows users to **review exactly how artificial intelligence was used** within Evidex.
+Viewing AI audit logs allows users to **review exactly how artificial intelligence was used** within TRACE.
 
 AI audit logs provide visibility into:
 
@@ -45,9 +45,9 @@ All access to AI audit logs is itself logged.
 
 #### Step 1: Navigate to the AI Audit Log
 
-From the Evidex navigation, go to **AI Audit Logs** or the **Audit / Oversight** area, depending on your configuration.
+From the TRACE navigation, go to **AI Audit Logs** or the **Audit / Oversight** area, depending on your configuration.
 
-<figure><img src="../../.gitbook/assets/AI configurations 1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/AI Log.png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2: Review the Log Overview
 
@@ -92,9 +92,9 @@ AI audit logs are commonly used to:
 
 They provide context without requiring technical expertise.
 
-### What Evidex Records
+### What TRACE Records
 
-For every AI-assisted action, Evidex records:
+For every AI-assisted action, TRACE records:
 
 * The initiating user
 * The purpose of AI usage

@@ -4,7 +4,7 @@ description: What This Accomplishes
 
 # Creating an Assessment
 
-Creating an assessment in Evidex establishes the **formal starting point** for governance, risk, and compliance workflows.
+Creating an assessment in TRACE establishes the **formal starting point** for governance, risk, and compliance workflows.
 
 Assessments are used to document relevant facts, context, and considerations about a system, vendor, process, or activity. Once approved, they serve as the authoritative input for:
 
@@ -13,7 +13,7 @@ Assessments are used to document relevant facts, context, and considerations abo
 * Mitigation planning
 * Audit and regulatory evidence
 
-No downstream decisions in Evidex occur without an assessment.
+No downstream decisions in TRACE occur without an assessment.
 
 ### When to Create an Assessment
 
@@ -31,9 +31,9 @@ Assessments may be updated over time, but each version follows the same controll
 
 #### Step 1: Navigate to Assessments
 
-From the Evidex dashboard, navigate to the **Assessments** area and select **Create Assessment**
+From the TRACE dashboard, navigate to the **Assessments** area and select **Create Assessment**
 
-<figure><img src="../../.gitbook/assets/Create Assessment.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/TRACE.png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2: Select an Assessment Type
 
@@ -84,9 +84,18 @@ Draft assessments:
 
 This allows users to collaborate and refine content before review.
 
-### What Evidex Records
+### What TRACE Records
 
-When an assessment is created, Evidex automatically records:
+When an assessment is created, TRACE automatically records:
+
+* The user who created the assessment
+* The assessment type and scope
+* Draft status and version history
+* Timestamps for creation and updates
+
+If AI is used during drafting, corresponding **AI audit log entries** are created.
+
+When an assessment is created, TRACE automatically records:
 
 * The user who created the assessment
 * The assessment type and scope

@@ -4,7 +4,7 @@ description: What This Accomplishes
 
 # Exporting Evidence for Audits.
 
-Exporting evidence in Evidex allows organizations to **share structured, verifiable records** with auditors, regulators, and internal reviewers.
+Exporting evidence in TRACE allows organizations to **share structured, verifiable records** with auditors, regulators, and internal reviewers.
 
 Exports are intended to support:
 
@@ -13,7 +13,7 @@ Exports are intended to support:
 * Internal reviews and investigations
 * Executive or board reporting
 
-Evidex exports reflect **records that already exist within the platform**.\
+TRACE exports reflect **records that already exist within the platform**.\
 They do not modify, summarize, or reinterpret decisions.
 
 ### When to Export Evidence
@@ -40,7 +40,7 @@ Depending on configuration and permissions, users may export:
 
 Only approved and recorded items are included in exports.
 
-### How Evidence Exports Work in Evidex
+### How Evidence Exports Work in TRACE
 
 #### Step 1: Select the Scope of Evidence
 
@@ -59,7 +59,7 @@ This ensures exports are targeted and relevant.
 
 Once the scope is defined:
 
-* Evidex generates a structured export
+* TRACE generates a structured export
 * Records retain their original timestamps and attribution
 * Relationships between assessments, decisions, and risks are preserved
 
@@ -75,9 +75,9 @@ Generated exports can be:
 
 Exports do not alter underlying records.
 
-### What Evidex Records
+### What TRACE Records
 
-When evidence is exported, Evidex records:
+When evidence is exported, TRACE records:
 
 * Who generated the export
 * When the export occurred
@@ -88,7 +88,7 @@ This ensures that evidence sharing itself is auditable.
 
 ### Integrity and Traceability
 
-Exports from Evidex are designed to preserve:
+Exports from TRACE are designed to preserve:
 
 * Original decision context
 * Approval history

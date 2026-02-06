@@ -24,7 +24,7 @@ Submitting incomplete assessments may delay approval or require revisions.
 
 ### How the Approval Process Works
 
-Evidex uses **explicit, human-driven approval workflows**.
+TRACE uses **explicit, human-driven approval workflows**.
 
 Key characteristics:
 
@@ -84,9 +84,9 @@ If changes are requested:
 * Feedback is visible to the owner
 * Revisions can be made before resubmission
 
-### What Evidex Records
+### What TRACE Records
 
-When an assessment is submitted and reviewed, Evidex records:
+When an assessment is submitted and reviewed, TRACE records:
 
 * The user who submitted the assessment
 * The approver(s) assigned

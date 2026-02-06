@@ -6,7 +6,7 @@ description: What This Accomplishes
 
 Extracting risks from controls allows organizations to **translate control analysis into clearly defined, reviewable risks**.
 
-Rather than assuming that documented controls are sufficient, Evidex supports a structured process to:
+Rather than assuming that documented controls are sufficient, TRACE supports a structured process to:
 
 * Identify gaps or weaknesses in controls
 * Surface residual or contextual risks
@@ -25,15 +25,15 @@ Organizations typically extract risks from controls when:
 
 Risk extraction may occur during initial assessment or as controls evolve over time.
 
-### How Risk Extraction Works in Evidex
+### How Risk Extraction Works in TRACE
 
-Risk extraction in Evidex is:
+Risk extraction in TRACE is:
 
 * **Human-initiated**
 * **Context-driven**
 * **Reviewable and auditable**
 
-Evidex may assist with highlighting potential risks, but **risk creation is never automatic**.\
+TRACE may assist with highlighting potential risks, but **risk creation is never automatic**.\
 Each risk must be reviewed and confirmed by a user.
 
 ### How to Extract Risks from Controls
@@ -81,9 +81,9 @@ Before proceeding:
 
 Clear risk descriptions support better decisions later.
 
-### What Evidex Records
+### What TRACE Records
 
-When risks are extracted from controls, Evidex records:
+When risks are extracted from controls, TRACE records:
 
 * The originating controls assessment
 * The control(s) associated with the risk

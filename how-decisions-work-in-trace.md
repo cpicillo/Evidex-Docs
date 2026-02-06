@@ -2,11 +2,11 @@
 description: Purpose of This Workflow
 ---
 
-# How Decisions Work in Evidex
+# How Decisions Work in TRACE
 
-Evidex is designed to ensure that **every governance decision can be explained, justified, and defended**.
+TRACE is designed to ensure that **every governance decision can be explained, justified, and defended**.
 
-Rather than focusing solely on documentation, Evidex provides a structured workflow that connects:
+Rather than focusing solely on documentation, TRACE provides a structured workflow that connects:
 
 * Assessments
 * Human approvals
@@ -19,7 +19,7 @@ This creates a **single, traceable decision record** — not disconnected artifa
 
 #### Step 1: Structured Assessments
 
-Decisions in Evidex begin with structured assessments.
+Decisions in TRACE begin with structured assessments.
 
 Organizations use standardized templates to document:
 
@@ -47,7 +47,7 @@ This ensures that assessments represent a **validated organizational position**,
 
 #### Step 3: Risk Identification
 
-Once an assessment is approved, Evidex identifies potential risks based on the approved content.
+Once an assessment is approved, TRACE identifies potential risks based on the approved content.
 
 Risk identification:
 
@@ -72,7 +72,7 @@ Authorized users  must explicitly decide how the risk will be handled, typically
 * Transfer
 * Avoid
 
-For every risk decision, Evidex records:
+For every risk decision, TRACE records:
 
 * The selected treatment
 * The decision rationale
@@ -83,7 +83,7 @@ No risk moves forward without a documented human decision.
 
 #### Step 5: Mitigation and Conditions
 
-When risks are mitigated, Evidex captures:
+When risks are mitigated, TRACE captures:
 
 * Required mitigation measures
   * The end user can use AI to suggest mitigating measures.
@@ -108,11 +108,11 @@ This ensures risks are managed as ongoing obligations, not one-time events.
 
 #### Traceability Across the Entire Lifecycle
 
-Evidex maintains end-to-end traceability across the full decision lifecycle:
+TRACE maintains end-to-end traceability across the full decision lifecycle:
 
 Assessment → Approval → Risk Identification → Decision → Mitigation → Risk Register
 
-For every step, Evidex records:
+For every step, TRACE records:
 
 * Who acted
 * What was decided
@@ -123,9 +123,9 @@ AI involvement, where applicable, is logged and auditable via AI Audit Logs.
 
 #### Human Accountability by Design
 
-Evidex does not make decisions.
+TRACE does not make decisions.
 
-In Evidex:
+In TRACE:
 
 * Humans initiate actions
 * Humans review and approve content
@@ -134,4 +134,4 @@ In Evidex:
 
 The platform exists to **document, structure, and preserve** those decisions not to replace judgment.&#x20;
 
-Evidex turns governance decisions into durable, auditable records, ensuring accountability is preserved even as teams, systems, and technologies change.
+TRACE turns governance decisions into durable, auditable records, ensuring accountability is preserved even as teams, systems, and technologies change.

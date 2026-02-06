@@ -1,16 +1,16 @@
 ---
 description: >-
-  Evidex is designed to support organizations operating in regulated, high-risk
+  TRACE is designed to support organizations operating in regulated, high-risk
   environments where security, confidentiality, and auditability are mandatory.
 ---
 
 # Security and Trust
 
-This page describes **how Evidex protects customer data, controls access, and supports secure, auditable governance workflows**. It does not replace an organization’s own security program, but is intended to clearly explain Evidex’s security posture and design principles.
+This page describes **how** TRACE **protects customer data, controls access, and supports secure, auditable governance workflows**. It does not replace an organization’s own security program, but is intended to clearly explain TRACE’s security posture and design principles.
 
 ### Security by Design
 
-Security is built into Evidex’s core architecture rather than added as an afterthought.
+Security is built into TRACE’s core architecture rather than added as an afterthought.
 
 Key principles include:
 
@@ -24,11 +24,11 @@ All sensitive actions are designed to be **intentional, reviewable, and attribut
 
 ### Data Protection
 
-Evidex is designed to protect customer data throughout its lifecycle.
+TRACE is designed to protect customer data throughout its lifecycle.
 
 #### Data Handling Principles
 
-* Customer data is used only to provide the Evidex service
+* Customer data is used only to provide the TRACE service
 * Data is logically isolated by tenant
 * Data minimization is applied wherever possible
 * Customer data is not used to train AI models
@@ -40,7 +40,7 @@ Evidex is designed to protect customer data throughout its lifecycle.
 
 ### Access Controls and Authorization
 
-Access to Evidex is governed through role-based access controls.
+Access to TRACE is governed through role-based access controls.
 
 This includes:
 
@@ -52,9 +52,9 @@ All access to sensitive data and administrative functions is logged for audit an
 
 ### Human-in-the-Loop Controls
 
-Evidex is designed to preserve human accountability at all times.
+TRACE is designed to preserve human accountability at all times.
 
-In Evidex:
+In TRACE:
 
 * AI actions are always initiated by a human
 * AI outputs are clearly labeled
@@ -65,7 +65,7 @@ This ensures that governance outcomes remain **human-directed and explainable**,
 
 ### AI Data Handling and Model Controls
 
-Evidex integrates with AI providers through enterprise-grade APIs.
+TRACE integrates with AI providers through enterprise-grade APIs.
 
 AI-related controls include:
 
@@ -78,7 +78,7 @@ Details of AI activity are captured in **AI Audit Logs**, enabling traceability 
 
 ### Auditability and Logging
 
-Evidex maintains comprehensive audit logs across governance workflows.
+TRACE maintains comprehensive audit logs across governance workflows.
 
 This includes:
 
@@ -98,12 +98,12 @@ These records support regulatory inquiries, audits, and internal investigations.
 
 ### Customer Responsibility
 
-Evidex provides tooling to support secure, auditable governance workflows.\
+TRACE provides tooling to support secure, auditable governance workflows.\
 Customers remain responsible for:
 
-* Determining how Evidex is used within their organization
+* Determining how TRACE is used within their organization
 * Reviewing and approving outputs
 * Making final governance decisions
 * Ensuring compliance with applicable laws and regulations
 
-Evidex does not replace professional judgment or regulatory accountability.
+TRACE does not replace professional judgment or regulatory accountability.

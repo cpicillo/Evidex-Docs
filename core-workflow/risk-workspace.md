@@ -22,4 +22,4 @@ The Risk Workspace turns assessment output into:
 * documented accountability
 * auditable evidence
 
-This is the operational heart of Evidex.
+This is the operational heart of TRACE.

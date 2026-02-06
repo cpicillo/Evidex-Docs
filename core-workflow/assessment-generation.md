@@ -4,7 +4,7 @@ description: What It Is
 
 # Assessment Generation
 
-Assessment Generation is the starting point of Evidex. It allows teams to generate structured, framework-aligned assessments that identify privacy, security, and AI governance risks across systems, processes, and vendors.
+Assessment Generation is the starting point of TRACE. It allows teams to generate structured, framework-aligned assessments that identify privacy, security, and AI governance risks across systems, processes, and vendors.
 
 Assessments are not static questionnaires, they are **risk discovery mechanisms** that feed directly into the Risk Workspace.
 

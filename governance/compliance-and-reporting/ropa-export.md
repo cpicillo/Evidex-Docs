@@ -6,7 +6,7 @@ description: What It Is
 
 ROPA Export enables organizations to generate Records of Processing Activities (RoPA) directly from assessment and risk data.
 
-Rather than maintaining RoPAs separately, Evidex ensures records are:
+Rather than maintaining RoPAs separately, TRACE ensures records are:
 
 * consistent with actual assessments
 * continuously updated

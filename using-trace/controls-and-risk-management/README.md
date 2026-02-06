@@ -4,31 +4,31 @@ description: Purpose
 
 # Controls and Risk Management
 
-This section explains how Evidex supports **structured control evaluation, risk identification, and risk treatment** within governance workflows.
+This section explains how TRACE supports **structured control evaluation, risk identification, and risk treatment** within governance workflows.
 
-Controls and risk management in Evidex are designed to ensure that:
-
-* Controls are documented intentionally
-* Risks are explicitly identified
-* Risk treatment decisions are deliberate and reviewable
-* Mitigation actions are traceable over time
-
-Rather than treating controls and risks as static artifacts, Evidex connects them through a governed lifecycle.
-
-This section explains how Evidex supports **structured control evaluation, risk identification, and risk treatment** within governance workflows.
-
-Controls and risk management in Evidex are designed to ensure that:
+Controls and risk management in TRACE are designed to ensure that:
 
 * Controls are documented intentionally
 * Risks are explicitly identified
 * Risk treatment decisions are deliberate and reviewable
 * Mitigation actions are traceable over time
 
-Rather than treating controls and risks as static artifacts, Evidex connects them through a governed lifecycle.
+Rather than treating controls and risks as static artifacts, TRACE connects them through a governed lifecycle.
+
+This section explains how TRACE supports **structured control evaluation, risk identification, and risk treatment** within governance workflows.
+
+Controls and risk management in TRACE  are designed to ensure that:
+
+* Controls are documented intentionally
+* Risks are explicitly identified
+* Risk treatment decisions are deliberate and reviewable
+* Mitigation actions are traceable over time
+
+Rather than treating controls and risks as static artifacts, TRACE connects them through a governed lifecycle.
 
 ### From Controls to Risk Decisions
 
-The typical workflow in Evidex follows this sequence:
+The typical workflow in TRACE follows this sequence:
 
 1. Document internal controls
 2. Evaluate control effectiveness and limitations
@@ -40,7 +40,7 @@ Each step is intentional and auditable.
 
 ### From Controls to Risk Decisions
 
-The typical workflow in Evidex follows this sequence:
+The typical workflow in TRACE follows this sequence:
 
 1. Document internal controls
 2. Evaluate control effectiveness and limitations
@@ -76,4 +76,4 @@ The following guides explain how to manage controls and risks in practice:
 * **Extracting Risks from Controls**
 * **Generating Technical and Organizational Measures (TOMs)**
 
-Each guide describes when to use the workflow, how it operates in Evidex, and what records are created.
+Each guide describes when to use the workflow, how it operates in TRACE, and what records are created.

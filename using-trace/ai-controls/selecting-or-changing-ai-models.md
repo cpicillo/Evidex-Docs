@@ -4,7 +4,7 @@ description: What This Accomplishes
 
 # Selecting or Changing AI Models
 
-Selecting or changing the AI model in Evidex allows organizations to **control which AI provider and model are used** for AI-assisted workflows.
+Selecting or changing the AI model in TRACE allows organizations to **control which AI provider and model are used** for AI-assisted workflows.
 
 This control ensures alignment with:
 
@@ -26,15 +26,15 @@ Organizations may select or change AI models when:
 
 Model changes are intentional administrative actions.
 
-### How AI Model Selection Works in Evidex
+### How AI Model Selection Works in TRACE
 
-AI model selection in Evidex is:
+AI model selection in TRACE is:
 
 * **Tenant-scoped** (applies at the organizational level)
 * **Explicit** (requires a human action)
 * **Auditable** (changes are logged)
 
-Evidex supports multiple AI providers and allows organizations to determine which model is used for AI-assisted drafting and analysis.
+TRACE supports multiple AI providers and allows organizations to determine which model is used for AI-assisted drafting and analysis.
 
 AI models are used **only** when a user initiates an AI-assisted action.
 
@@ -80,9 +80,9 @@ After selecting a model:
 
 Existing assessments, decisions, and audit records remain unchanged.
 
-### What Evidex Records
+### What TRACE Records
 
-When an AI model is selected or changed, Evidex records:
+When an AI model is selected or changed, TRACE records:
 
 * The previous and newly selected model
 * The user who made the change
@@ -101,4 +101,4 @@ When AI is disabled:
 * Manual workflows remain fully functional
 * No AI audit logs are generated
 
-This allows organizations to operate Evidex without AI if desired.
+This allows organizations to operate TRACE without AI if desired.

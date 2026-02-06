@@ -1,23 +1,23 @@
 ---
 description: >-
-  This section explains how Evidex manages formal approvals and decision-making
+  This section explains how TRACE manages formal approvals and decision-making
   once assessments are complete.
 ---
 
 # Approvals and Decisions
 
-Approvals and decisions in Evidex are designed to ensure that:
+Approvals and decisions in TRACE are designed to ensure that:
 
 * Governance outcomes are explicit
 * Responsibility is clearly attributed
 * Decisions are supported by documented inputs
 * Records can be reviewed and defended later
 
-Rather than relying on informal sign-offs or external documentation, Evidex captures approvals and decisions directly within the platform.
+Rather than relying on informal sign-offs or external documentation, TRACE captures approvals and decisions directly within the platform.
 
 ### How Approvals and Decisions Work Together
 
-In Evidex, approvals and decisions serve different but related purposes:
+In TRACE, approvals and decisions serve different but related purposes:
 
 * **Approvals** validate information
 * **Decisions** determine action
@@ -32,7 +32,7 @@ This separation ensures that decisions are made using **validated inputs**, not 
 
 ### Decision Records as the Source of Truth
 
-Decisions in Evidex are recorded explicitly.
+Decisions in TRACE are recorded explicitly.
 
 A decision record documents:
 
@@ -46,9 +46,9 @@ Decision records prevent ambiguity and eliminate the need to reconstruct reasoni
 
 ### Human Accountability by Design
 
-Evidex does not automate approvals or decisions.
+TRACE does not automate approvals or decisions.
 
-In Evidex:
+In TRACE:
 
 * Approvals are initiated and completed by humans
 * Decisions are selected and confirmed by humans
@@ -69,7 +69,7 @@ This creates a continuous audit trail from assessment through decision and ongoi
 
 ### What Gets Recorded
 
-Across approval and decision workflows, Evidex records:
+Across approval and decision workflows, TRACE records:
 
 * Submissions and approvals
 * Decision selections and rationale
