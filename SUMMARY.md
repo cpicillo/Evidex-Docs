@@ -1,6 +1,6 @@
 # Table of contents
 
-* [How Evidex Works & Why It’s Defensible](README.md)
+* [How TRACE Works & Why It’s Defensible](README.md)
 * [AI Audit Logs](ai-audit-logs.md)
 * [How Decisions Work in Evidex](how-decisions-work-in-evidex.md)
 * [Security and Trust](security-and-trust.md)
